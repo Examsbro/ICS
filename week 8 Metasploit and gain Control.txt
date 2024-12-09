@@ -27,7 +27,8 @@ Reopen kali cmd terminal
 -info
 -exploit 
 output:
-192.168.23.129:139 - Exploit failed [unreachable]: Rex::ConnectionTimeout The connection with (192.168.23.129:139) timed out.
+192.168.23.129:139 - Exploit failed [unreachable]: 
+Rex::ConnectionTimeout The connection with (192.168.23.129:139) timed out.
 Exploit completed, but no session was created.
 
 -ls
