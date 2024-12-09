@@ -9,6 +9,7 @@ week 10 UPI
 output:-
 
 	UPI apps 		Security
-phonepay		medium security since app is viewed, but the payment process can't done due to screen sharing
+phonepay		medium security since app is viewed, but the payment 
+			process can't done due to screen sharing
 Gpay			Low Security because everything can be done while screen sharing
 Paytm			High security app doesn't open due to screen sharing. 
