@@ -12,12 +12,12 @@ EGLO NGEEGF LYEAGD PL NIMFRSU OG OIS CGKE GC OIS 'OIPKU' DSOOSK, MFU LG GF, QFOP
 LYEAGDL GC OIS NKYHOGRKME WS WMFO OG LGDVS.
 Step:1 
 Open the encrypted message only in Notepad.
-Step2:
+Step2:(in kali linux)
 Find the frequency of each letter in the encrypted message. to find the frequency of all 
 the letters appearing in the intercept. For this intercept we get the values given in the table below.
 s-88,o-85,g-67,f-51,d-42,l-39,k-35,m-35,i-33,p-30,n-29,c-26,e-23,r-17,,u-17,w-16,q-14,y-8,h-8,x-6,a-5,
 v-3,b-2,j-1,t-0,z-0
-Step3:
+Step3:(from chrome)
 Follow the table below to find the characters to be substituted for the given encrypted
 message.
 E-12.7,T-9.1,A-8.2,O-7.5,I-7.0,N-6.7,S-6.3,H-6.1,R-6.0,D-4.3,L-4.0,C-2.8,U-2.8,M-2.4,W-2.4,
@@ -25,7 +25,7 @@ F-2.2,G-2.0,Y-2.0,P-1.9,B-1.5,V-0.98,K-0.77,J-0.15,,X-0.15,Q-0.095,Z-0.074
 Step4:
 Click ctrl+H in the notepad
 Click the check box: Match case
-Step 5:
+Step 5:(in notepad window)
 Start substituting one by one letters by following the sequence
 S → e, O → t, I → h, G → o, F → n, M → a, X → x, W → w, B → k, U → d, D → l, K → r, 
 P → i, L → s, V → v, H → p, A → b, X → x, Y → y, E → m, N →c, C →f, R →g, Q → u, J → q
