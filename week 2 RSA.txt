@@ -1,12 +1,11 @@
 week2:
-steps:-
+steps:-( download enc.txt pubkey.pem from https://github.com/rampriyakilari/ICS-Needs)
 1. cd Desktop
 2. cd rsa
 3. ls
   -enc.txt  pubkey.pem
 4. cat pubkey.pem
 5. openssl rsa -pubin -inform PEM -text -noout < pubkey.pem
-
 6. Copy the hexadecimal decimal code into a notepad as n value. 
    As it is a hexadecimal we can convert it into decimal for gaining the plaintext
 	Hexadecimal to decimal convertor
@@ -46,5 +45,3 @@ with open(fn, "wb") as f:
 19. cat dec.txt 
 output:- 
 RSAisEasy
-
-
