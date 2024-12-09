@@ -23,8 +23,9 @@ n=188198812920607963838697239461650439807163563379417382700763356422988859715234
 12. q=472772146107435302536223071973048224632914695302097116459852171130520711256363590397527
 13. pip install pycryptodome
 14. touch exploit.py
+	>create a dec.txt (empty file in rsa folder)
 15. ls
-	desc.txt  enc.txt  exploit.py  pubkey.pem
+	dec.txt  enc.txt  exploit.py  pubkey.pem
 16. code this code into exploit.py:-
 from Crypto.PublicKey import RSA
 from Crypto.Util.number import inverse 
